@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="color_logo">
+    <file>colorcheck_logo2.png</file>
+  </qresource>
+</RCC>

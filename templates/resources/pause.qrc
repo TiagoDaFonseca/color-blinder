@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pause">
+    <file>iconfinder_player_pause_48790.png</file>
+  </qresource>
+</RCC>

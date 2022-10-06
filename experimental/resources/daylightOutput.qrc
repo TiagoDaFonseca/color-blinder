@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="daylight">
+    <file>sun-512.png</file>
+  </qresource>
+</RCC>

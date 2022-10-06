@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>D:/Projects/isent_colorcheck/resources/colorcheck_logo.png</file>
+    <file>logoColorCheck.png</file>
+  </qresource>
+</RCC>

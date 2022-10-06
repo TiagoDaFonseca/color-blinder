@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="step_off">
+    <file>circle-512-3.png</file>
+  </qresource>
+  <qresource prefix="setp_on">
+    <file>circle-512-2.png</file>
+  </qresource>
+</RCC>

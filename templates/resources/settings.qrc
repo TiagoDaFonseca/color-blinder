@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="settings_on">
+    <file>settings-9-512.png</file>
+  </qresource>
+  <qresource prefix="settings">
+    <file>settings-9-512-2.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="OK">
+    <file>iconfinder_star_full_48807.png</file>
+  </qresource>
+  <qresource prefix="LA">
+    <file>iconfinder_notification_done_48784.png</file>
+  </qresource>
+  <qresource prefix="warning">
+    <file>iconfinder_notification_warning_48787.png</file>
+  </qresource>
+  <qresource prefix="NOK">
+    <file>iconfinder_notification_error_48785.png</file>
+  </qresource>
+</RCC>

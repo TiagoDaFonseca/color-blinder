@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="F1">
+    <file>sun-4-512.png</file>
+    <file>sun-4-512-3.png</file>
+  </qresource>
+</RCC>

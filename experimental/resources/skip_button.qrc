@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="skip">
+    <file>button_layout.png</file>
+  </qresource>
+</RCC>

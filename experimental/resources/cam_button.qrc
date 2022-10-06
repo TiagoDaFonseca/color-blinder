@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cam">
+    <file>camera-4-512.png</file>
+  </qresource>
+</RCC>

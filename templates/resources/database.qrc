@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="database_off">
+    <file>database-512.png</file>
+  </qresource>
+  <qresource prefix="database_on">
+    <file>database-512-2.png</file>
+  </qresource>
+</RCC>

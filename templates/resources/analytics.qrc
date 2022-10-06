@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="analytics_off">
+    <file>analytics-512.png</file>
+  </qresource>
+  <qresource prefix="analytics_on">
+    <file>analytics-512-2.png</file>
+  </qresource>
+</RCC>

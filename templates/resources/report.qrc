@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="report_on">
+    <file>report-2-512.png</file>
+  </qresource>
+  <qresource prefix="report_off">
+    <file>report-2-512-2.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>D:/Projects/isent_colorcheck/resources/R&amp;D-logo-CMYK-cores.png</file>
+    <file>id_logo_introsys.png</file>
+  </qresource>
+  <qresource prefix="introsys">
+    <file>INTROSYS_White.png</file>
+  </qresource>
+</RCC>

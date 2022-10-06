@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="D65_on">
+    <file>sun-4-512-2.png</file>
+    <file>sun-4-512.png</file>
+  </qresource>
+</RCC>
